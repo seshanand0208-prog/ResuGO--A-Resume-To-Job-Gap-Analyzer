@@ -1,0 +1,6 @@
+{
+  "name": "ResuGO",
+  "description": "Resume-to-job gap analyzer with AI skill matching, ATS keyword diagnostics, bullet rewriter, multi-job comparison, and week-by-week career roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
