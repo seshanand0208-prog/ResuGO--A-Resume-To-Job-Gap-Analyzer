@@ -206,12 +206,3 @@ Contributions are welcome.
 4. Push the branch: `git push origin feature/your-feature`
 5. Open a pull request
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for details.
-
-## Contact
-
-Your Name · [your-email@example.com](mailto:your-email@example.com) · [GitHub](https://github.com/<your-username>)
-
-Project link: https://github.com/<your-username>/resugo
